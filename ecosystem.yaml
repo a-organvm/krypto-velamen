@@ -1,0 +1,9 @@
+schema_version: '1.0'
+repo: krypto-velamen
+organ: II
+display_name: "KRYPTO-VELAMEN \u2014 The hidden veil: queer theory and literary technique\
+  \ corpus. Field I (Present Waking). Double-channel text, concealment as compositional\
+  \ engine, archival of lived interiority."
+delivery:
+- platform: web_app
+  status: not_started
